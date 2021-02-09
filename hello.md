@@ -10,4 +10,4 @@
 用git remote -v命令查询当前git仓库是否绑定远程仓库，显示空白，则没有绑定
 绑定远程仓库命令：git remote add origin 仓库地址
 绑定成功之后，可用git remote -v查询，完成后就已经绑定好了
-如果绑定错误，可执行git remote remove origin来移除绑定.
+如果绑定错误，可执行git remote remove origin来移除绑定
